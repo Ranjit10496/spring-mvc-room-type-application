@@ -1,0 +1,6 @@
+org\sunglowsys\service\RoomTypeServiceImpl.class
+org\sunglowsys\repository\RoomTypeRepository.class
+org\sunglowsys\service\RoomTypeService.class
+org\sunglowsys\ApplicationRoomType.class
+org\sunglowsys\domain\RoomType.class
+org\sunglowsys\resource\RoomTypeResource.class
